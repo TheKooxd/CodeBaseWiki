@@ -1,1 +1,1 @@
-Open index.html and add "?page=readme" to end of it. And then prey that your set up works.
+Open index.html and add "?page=readme" to end of it. And then prey that your setup works.
